@@ -1,8 +1,16 @@
 *{
     margin :0;
    padding: 0; 
+   color: black;
 }
 .header{
-    background-color: #2C3E50;
+    background-color:#1b1f23;
     display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    height: 20px;
+}
+.profile{width: 30px;
+    height: auto;
+    border-radius:200%;
 }
